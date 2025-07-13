@@ -1,4 +1,7 @@
 🚀 Indian Startup Funding Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pulkitaggarwal08/startup-funding-eda/blob/main/funding_analysis.ipynb)
+
 Over 2,000 startup funding deals. Cleaned, analyzed, and visualized — to make sense of how capital actually flows in India's startup ecosystem.
 
 This project isn’t just about charts. It’s about answering key questions:
